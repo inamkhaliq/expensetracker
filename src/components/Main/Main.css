@@ -1,0 +1,7 @@
+._parent{
+
+    /* transition: all 2s; */
+}
+._parent:hover ._del{
+    opacity:1 ;
+}
